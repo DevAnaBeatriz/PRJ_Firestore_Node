@@ -19,4 +19,5 @@ Este é um projeto de exemplo de um sistema CRUD (Create, Read, Update, Delete) 
 - Handlebars
 - Bootstrap
 
+  <img  src="https://github.com/DevAnaBeatriz/PRJ_Firestore_Node/blob/main/gif.gif"  />
 
